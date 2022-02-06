@@ -5,12 +5,12 @@ We take your privacy seriously. To better protect your privacy we provide this p
 
 ## Collection of Routine Information
 
-This app doesn't track any information about it's users. We don't care who you are.
+This app *does not track, or collect any information* about it's users. We don't care who you are.
 
 
 ## Advertisement and Other Third Parties
 
-We don't use advertisements.
+We don't use advertisements or third-party trackers.
 
 
 ## Links to Third Party Websites
@@ -20,7 +20,7 @@ The only links we include are links generated from the QR codes you scan. We are
 
 ## Security
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. That's why we don't collect it.
+The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. *That's why we don't collect it.*
 
 
 ## Changes To This Privacy Policy
